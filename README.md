@@ -1,2 +1,2 @@
 # SplashPage
-UDEMY
+UDEMY Exercise
