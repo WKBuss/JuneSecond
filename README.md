@@ -1,2 +1,2 @@
-# JuneSecond
+# SplashPage
 UDEMY
