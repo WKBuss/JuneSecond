@@ -1,0 +1,19 @@
+{
+  "name": "splashpage",
+  "version": "1.0.0",
+  "description": "UDEMY Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WKBuss/SplashPage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WKBuss/SplashPage/issues"
+  },
+  "homepage": "https://github.com/WKBuss/SplashPage#readme"
+}
